@@ -87,6 +87,7 @@ const Player = () => {
       </div>
     </div>
   );
+  
 };
 
 export default Player;
