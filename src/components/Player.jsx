@@ -31,6 +31,9 @@ const Player = () => {
             src={assets.shuffle_icon}
             alt=""
           />
+
+
+          
           <img
             onClick={previous}
             className="w-3 cursor-pointer"
